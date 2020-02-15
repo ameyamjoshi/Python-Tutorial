@@ -1,12 +1,12 @@
-###Python the language is named after the BBC show “Monty Python’s Flying Circus” and has nothing to do with reptiles.
-#####If you do much work on computers, eventually you find that there’s some task you’d like to automate. For example, you may wish to perform a search-and-replace over a large number of text files, or rename and rearrange a bunch of photo files in a complicated way. Perhaps you’d like to write a small custom database, or a specialized GUI application, or a simple game.
-###Python is just the language for you.
-####Python is an interpreted language, which can save you considerable time during program development because no compilation and linking is necessary. The interpreter can be used interactively, which makes it easy to experiment with features of the language, to write throw-away programs, or to test functions during bottom-up program development. It is also a handy desk calculator.
-####Python enables programs to be written compactly and readably. Programs written in Python are typically much shorter than equivalent C, C++, or Java programs, for several reasons:
+Python the language is named after the BBC show “Monty Python’s Flying Circus” and has nothing to do with reptiles.
+If you do much work on computers, eventually you find that there’s some task you’d like to automate. For example, you may wish to perform a search-and-replace over a large number of text files, or rename and rearrange a bunch of photo files in a complicated way. Perhaps you’d like to write a small custom database, or a specialized GUI application, or a simple game.
+Python is just the language for you.
+Python is an interpreted language, which can save you considerable time during program development because no compilation and linking is necessary. The interpreter can be used interactively, which makes it easy to experiment with features of the language, to write throw-away programs, or to test functions during bottom-up program development. It is also a handy desk calculator.
+Python enables programs to be written compactly and readably. Programs written in Python are typically much shorter than equivalent C, C++, or Java programs, for several reasons:
 
-#####1.the high-level data types allow you to express complex operations in a single statement;
-#####2.statement grouping is done by indentation instead of beginning and ending brackets;
-#####3.no variable or argument declarations are necessary.
+1.the high-level data types allow you to express complex operations in a single statement;
+2.statement grouping is done by indentation instead of beginning and ending brackets;
+3.no variable or argument declarations are necessary.
 
-####The rest of the tutorial introduces various features of the Python language and system through examples, beginning with simple expressions, statements and data types, through functions and modules, and finally touching upon advanced concepts like exceptions and user-defined classes.
+The rest of the tutorial introduces various features of the Python language and system through examples, beginning with simple expressions, statements and data types, through functions and modules, and finally touching upon advanced concepts like exceptions and user-defined classes.
 
