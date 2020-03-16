@@ -57,5 +57,9 @@ in the string, but it’s possible to prevent this by adding a \ at the end of t
 #Note how the start is always included, and the end always excluded.
 # This makes sure that s[:i] + s[i:] is always equal to s:
 
-word='Python'
-print(word[:2] + word[2:])
+# word='Python'
+# print(word[:2] + word[2:])
+
+x=int(input())
+#print(x)
+print(x*2)
